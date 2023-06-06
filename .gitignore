@@ -1,0 +1,4 @@
+__pycache__/
+choices13k/data/model=65B_full_data_choices13k.pth
+ExperientialSymbolicTask/data/model=65B_full_data.pth
+HorizonTask/data/model=65B_full_data.pth
